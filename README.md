@@ -4,7 +4,7 @@ A Zendesk API  library for use with react native
 # Getting started
 add to package.json
 
-`"zendesk-react-native-api":"git+https://github.com/vseprav/zendesk-react-native-api.git"`
+`"zendesk-react-native-api":"git+git@github.com:getbirthdayapp/zendesk-react-native-api.git"`
 
 for local use clone repository add to package.json
 
